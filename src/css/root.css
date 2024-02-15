@@ -97,6 +97,8 @@
 
     --booblebee: #FCE205;
 
+    --azul-logo: #9FE4F4;
+
     
     
 
@@ -121,18 +123,18 @@
 
 
     --tamanho-10dot0: 10rem;    
-    --tamanho-7dot0: 7em;
-    --tamanho-6dot0: 6em;
-    --tamanho-5dot0: 5em;
-    --tamanho-4dot0: 4em;
-    --tamanho-3dot0: 3em;
-    --tamanho-2dot0: 2em;    
-    --tamanho-1dot8:1.8em;
-    --tamanho-1dot6:1.6em;
-    --tamanho-1dot4:1.4em;    
-    --tamanho-1dot2:1.2em;
-    --tamanho-ldot0:1em;
-    --tamanho-0dot9:0.9em;
+    --tamanho-7dot0: 7rem;
+    --tamanho-6dot0: 6rem;
+    --tamanho-5dot0: 5rem;
+    --tamanho-4dot0: 4rem;
+    --tamanho-3dot0: 3rem;
+    --tamanho-2dot0: 2rem;    
+    --tamanho-1dot8:1.8rem;
+    --tamanho-1dot6:1.6rem;
+    --tamanho-1dot4:1.4rem;    
+    --tamanho-1dot2:1.2rem;
+    --tamanho-ldot0:1rem;
+    --tamanho-0dot9:0.9rem;
 
 
 
